@@ -1,0 +1,14 @@
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\ModelProject.dll.config
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\ModelProject.dll
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\ModelProject.pdb
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\EntityFramework.dll
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\EntityFramework.SqlServer.dll
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\EntityFramework.xml
+G:\PDF_Reporting\PDFRotatova\ModelProject\bin\Debug\EntityFramework.SqlServer.xml
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.csprojAssemblyReference.cache
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.csproj.CoreCompileInputs.cache
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.csproj.CopyComplete
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.dll
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.pdb
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.csproj.GenerateResource.cache
+G:\PDF_Reporting\PDFRotatova\ModelProject\obj\Debug\ModelProject.Migrations.EmployeeDataMig.resources
