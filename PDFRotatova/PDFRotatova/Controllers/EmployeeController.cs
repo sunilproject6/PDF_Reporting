@@ -10,10 +10,10 @@ namespace PDFRotatova.Controllers
 {
     public class EmployeeController : Controller
     {
-        private IEmployeeRepostory _bookRepository;
+        private IEmployeeRepostory _employeeRepository;
         public EmployeeController()
         {
-            this._bookRepository = new EmployeeRepository();
+            this._employeeRepository = new EmployeeRepository();
         }
 
         /// <summary>  
@@ -38,7 +38,7 @@ namespace PDFRotatova.Controllers
         private List<EmployeeModel> LoadEmployees()
         {
 
-            return _bookRepository.GetEmployees().ToList();
+            return _employeeRepository.GetEmployees().ToList();
         }
 
         [HttpGet]
